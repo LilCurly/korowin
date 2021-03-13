@@ -2,10 +2,9 @@ import logo from './logo.svg';
 import './Header.scss'
 
 import {React, Component} from 'react'
-import {Divide as Hamburger} from 'hamburger-react'
 import {withGetScreen} from 'react-getscreen'
 
-import HeaderLinks from './HeaderLinks'
+import HeaderRight from './HeaderRight'
 
 class Header extends Component {
     constructor(props) {
@@ -18,13 +17,7 @@ class Header extends Component {
                 <div className="Header-logo">
                     <img src={logo} alt="logo"/>
                 </div>
-                <div className="Header-right">
-                    {
-                        this.props.isMobile() ?
-                        <Hamburger className="Header-hamburger" toggled={this.props.isHamburgerOpen} toggle={this.props.hamburgerHandler} /> :
-                        <HeaderLinks isHorizontal={true} />
-                    }
-                </div>
+                <HeaderRight isHamburgerOpen={this.props.isHamburgerOpen}  hamburgerHandler={this.props.hamburgerHandler} />
             </div>
         );
     }
