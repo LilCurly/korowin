@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/korowood/static/css/main.3c385539.chunk.css",
+    "main.js": "/korowood/static/js/main.3c6741e8.chunk.js",
+    "main.js.map": "/korowood/static/js/main.3c6741e8.chunk.js.map",
+    "runtime-main.js": "/korowood/static/js/runtime-main.b18b262a.js",
+    "runtime-main.js.map": "/korowood/static/js/runtime-main.b18b262a.js.map",
+    "static/js/2.03d8105c.chunk.js": "/korowood/static/js/2.03d8105c.chunk.js",
+    "static/js/2.03d8105c.chunk.js.map": "/korowood/static/js/2.03d8105c.chunk.js.map",
+    "static/js/3.2da57f1b.chunk.js": "/korowood/static/js/3.2da57f1b.chunk.js",
+    "static/js/3.2da57f1b.chunk.js.map": "/korowood/static/js/3.2da57f1b.chunk.js.map",
+    "index.html": "/korowood/index.html",
+    "static/css/main.3c385539.chunk.css.map": "/korowood/static/css/main.3c385539.chunk.css.map",
+    "static/js/2.03d8105c.chunk.js.LICENSE.txt": "/korowood/static/js/2.03d8105c.chunk.js.LICENSE.txt",
+    "static/media/logo.04fe0360.svg": "/korowood/static/media/logo.04fe0360.svg",
+    "static/media/paysage1.176f57c3.jpg": "/korowood/static/media/paysage1.176f57c3.jpg",
+    "static/media/paysage2.af405e24.jpg": "/korowood/static/media/paysage2.af405e24.jpg",
+    "static/media/pergola3.1f88c1e7.jpg": "/korowood/static/media/pergola3.1f88c1e7.jpg",
+    "static/media/pergola4.68bb27d7.jpg": "/korowood/static/media/pergola4.68bb27d7.jpg",
+    "static/media/pergola7.bc2198de.jpg": "/korowood/static/media/pergola7.bc2198de.jpg",
+    "static/media/wood.df0f786f.jpg": "/korowood/static/media/wood.df0f786f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b18b262a.js",
+    "static/js/2.03d8105c.chunk.js",
+    "static/css/main.3c385539.chunk.css",
+    "static/js/main.3c6741e8.chunk.js"
+  ]
+}
